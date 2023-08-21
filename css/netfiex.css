@@ -175,19 +175,19 @@ body{
       padding: 50px;
     }
     .featured-content{
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('img/rg.jpg');
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('rg.jpg');
        object-fit: cover;
        height: 100vh;
       padding: 50px;
     }
     .featured-content1{
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('img/dark.jpg');
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('dark.jpg');
        background-size: cover;
        height: 100vh;
       padding: 50px;
     }
     .featured-content2{
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('img/wih.jpg');
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('wih.jpg');
        background-size: cover;
        height: 100vh;
       padding: 50px;
